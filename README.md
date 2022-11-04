@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maya188
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: mayertkars@gmail.com
 
 <!---
